@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="359090c2d4a31afb5ddb88899ce9d383cacc0d7c">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_d179df1b8331e428399956fe91206327c7ad6098\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_821120dfef690b8a23898c81a7b839a24c0e08b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_1c9c2d96bca7ecc38a1dcf702de017f0c6e667e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_b0aef346ae316d34bb21ff2859e3e8c48552359f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.0\support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.0_7f18e0a929cb1b5885311b68dc3272b92006ae91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.0_3cd7db82547d161f8203630126426752e475ecce\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac50b9f0a8676e1cd163c2e60b0b0f853ed1aab7">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_453048b1c02a4d877b43f01b319fba65c45cc148\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_961722e2d6e882ea8ddc77bfd25022abbfb0d4df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_d594403ea7f81cc04cb2b8f120ed668e5cbd5dc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.0_7495b378986777807668e91e4d50725dd86f0944\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_a02d0d40ccaecee3dda72fb899b5e848029af077\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.0_63fe06dc37081768f9913c620d19df054c3a4663\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_376a9b77cdf0588da4e13946a5aa00e71fa67041\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2807e7ec6e68aef46d379e89fbf949c258872310">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_30efac14a7eef913deb0525e925406cacdedfc7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.0_b4c080b88aaac7f2395eadc5f00f5c1895b0bda8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.0_207e022fbadd1bb81a2a9c9457c1ecaec5ee7d02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a630619747ee066651679351e0be8bc5cdf385ef">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_383fe895db687136627c9bad8aea710575858bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.0_e0d9840c592ec31676c81bf85fe9335a5ee1a92b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_166ef310c853f0dab93c3aa34666ab9db8ae1770\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.0_83add6285cf3494b7c478ad33c978bbc7256bf45\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_f72c68329678e2ed4eee0a59ac7437b1d964421e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\ProjectsTut\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="F:\ProjectsTut\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.0_50547b1730d7f9ddfd27542d1ad0bcee346d532d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="C:\Users\PC\AndroidStudioProjects\JSONParserTut\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.0_5dacbb254ba78cb1712c169010397e3db00a555a\classes.dex" />
+    </item>
+
+</items>
